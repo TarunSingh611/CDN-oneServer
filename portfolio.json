@@ -51,6 +51,13 @@
     },
     "projects": [
       {
+        "title": "Pizza Order Online",
+        "description": "A dynamic pizza ordering application built using the MERN stack. This application allows users to browse a variety of pizzas and manage their cart. It features a robust RESTful API that supports full CRUD operations, enabling efficient user interactions and seamless data management. Users can register, log in.",
+        "techStack": ["Node.js", "Express", "Redux", "MongoDB", "React.js"],
+        "image": "/images/projects/PizzaFleetApp.png",
+        "link": "https://pizza-8o7yhmmjb-tarun-singhs-projects-fb39afa9.vercel.app//"
+      },
+      {
         "title": "AI Travel Planner",
         "description": "A web application designed to generate detailed travel plans using AI models. It provides recommendations based on the city, state, and country chosen by the user.",
         "techStack": ["Next.js", "TailwindCSS", "Vercel", "Git"],
