@@ -50,12 +50,19 @@
       "tools": ["Visual Studio Code", "Git"]
     },
     "projects": [
-      {
-        "title": "Pizza Order Online",
-        "description": "A dynamic pizza ordering application built using the MERN stack. This application allows users to browse a variety of pizzas and manage their cart. It features a robust RESTful API that supports full CRUD operations, enabling efficient user interactions and seamless data management. Users can register, log in.",
-        "techStack": ["Node.js", "Express", "Redux", "MongoDB", "React.js"],
-        "image": "/images/projects/PizzaFleetApp.png",
-        "link": "https://pizza-8o7yhmmjb-tarun-singhs-projects-fb39afa9.vercel.app//"
+     {
+        "title": "Pizza Order Online",
+        "description": "A dynamic pizza ordering application built using the MERN stack. This application allows users to browse a variety of pizzas and manage their cart. It features a robust RESTful API that supports full CRUD operations, enabling efficient user interactions and seamless data management. Users can register, log in.",
+        "techStack": ["Node.js", "Express", "Redux", "MongoDB", "React.js"],
+        "image": "/images/projects/PizzaFleetApp.png",
+        "link": "https://pizza-8o7yhmmjb-tarun-singhs-projects-fb39afa9.vercel.app/"
+      },
+           {
+        "title": "Social Media App",
+        "description": "A dynamic social media application built using the MERN stack. Features include robust RESTful API supporting full CRUD operations for efficient user interactions and data management.",
+        "techStack": ["Node.js", "Express", "Redux", "MongoDB", "Next.js"],
+        "image": "/images/projects/SocialMediaApp.png",
+        "link": "https://social-sphere-six.vercel.app/"
       },
       {
         "title": "AI Travel Planner",
@@ -63,13 +70,6 @@
         "techStack": ["Next.js", "TailwindCSS", "Vercel", "Git"],
         "image": "/images/projects/AITravelPlanner.png",
         "link": "https://ai-travel-planner-dun.vercel.app/"
-      },
-      {
-        "title": "Social Media App",
-        "description": "A dynamic social media application built using the MERN stack. Features include robust RESTful API supporting full CRUD operations for efficient user interactions and data management.",
-        "techStack": ["Node.js", "Express", "Redux", "MongoDB", "Next.js"],
-        "image": "/images/projects/SocialMediaApp.png",
-        "link": "https://social-sphere-six.vercel.app/"
       }
     ],
     "contacts": {
