@@ -48,7 +48,7 @@
        "libraries": ["Formik", "Redux", "React Query", "Prisma"],  
        "databases": ["MongoDB", "MySQL", "Firebase"],  
        "tools": ["Visual Studio Code", "Git", "Postman","Azure","Github"]  
-     }  
+     }, 
     "projects": [
      {
         "title": "Pizza Order Online",
