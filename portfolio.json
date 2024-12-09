@@ -42,13 +42,13 @@
         "period": "Aug 2019 – Aug 2023"
       }
     ],
-    "skills": {
-      "languages": ["JavaScript", "C++", "Python", "HTML", "CSS"],
-      "frameworks": ["React", "Next.js", "Express", "Node.js"],
-      "libraries": ["Formik", "Redux"],
-      "databases": ["MongoDB", "MySQL"],
-      "tools": ["Visual Studio Code", "Git"]
-    },
+   "skills": {  
+       "languages": ["JavaScript", "C++", "Python", "HTML", "CSS", "TypeScript"],  
+       "frameworks": ["React", "Next.js", "Express", "Node.js", "Tailwind CSS"],  
+       "libraries": ["Formik", "Redux", "React Query", "Prisma"],  
+       "databases": ["MongoDB", "MySQL", "Firebase"],  
+       "tools": ["Visual Studio Code", "Git", "Postman","Azure","Github"]  
+     }  
     "projects": [
      {
         "title": "Pizza Order Online",
