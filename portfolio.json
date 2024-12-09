@@ -2,8 +2,8 @@
     "aboutMe": {
       "title": "About Me",
       "professionalSummary": [
-        "I am Tarun Singh, a passionate and results-driven Software Developer and Software Engineer specializing in Frontend Development with expertise in Next.js, React, and modern web technologies. My journey in software development began with C++ and Python, and I have since honed my skills in building dynamic, responsive, and user-friendly web applications. Currently, I am contributing as a Web Developer at Axtrum Solutions Pvt. Ltd., where I design and develop innovative websites and custom web applications to solve real-world problems."
-        "With a strong foundation in MERN stack (MongoDB, Express.js, React.js, Node.js) and a growing interest in Backend Development, I am committed to becoming a well-rounded developer. My work reflects my dedication to creating impactful digital solutions, and I am constantly learning and expanding my skill set to stay ahead in the ever-evolving tech industry."
+        "I am Tarun Singh, a passionate and results-driven Software Developer and Software Engineer specializing in Frontend Development with expertise in Next.js, React, and modern web technologies. My journey in software development began with C++ and Python, and I have since honed my skills in building dynamic, responsive, and user-friendly web applications. Currently, I am contributing as a Web Developer at Axtrum Solutions Pvt. Ltd., where I design and develop innovative websites and custom web applications to solve real-world problems.",
+        "With a strong foundation in MERN stack (MongoDB, Express.js, React.js, Node.js) and a growing interest in Backend Development, I am committed to becoming a well-rounded developer. My work reflects my dedication to creating impactful digital solutions, and I am constantly learning and expanding my skill set to stay ahead in the ever-evolving tech industry.",
         "If you're looking for a skilled and dedicated Software Developer or Software Engineer, feel free to connect with me."
       ],
       "image": {
@@ -60,7 +60,7 @@
       {  
         "title": "AI-Powered Content Management Platform",  
         "description": "A comprehensive content management platform that leverages AI to enhance user experience and streamline content creation. Built with Next.js and Tailwind CSS, this platform allows users to manage content efficiently, integrate AI features for content suggestions, and analyze user engagement through a robust analytics dashboard.",  
-        "techStack": ["Next.js", "Tailwind CSS", "TypeScript","firbase","Prisma", "MongoDB", "React"],  
+        "techStack": ["Next.js", "Tailwind CSS", "TypeScript","Firebase","Prisma", "MongoDB", "React"],  
         "image": "/images/projects/AIContentPlatform.png",  
         "link": "https://content-platform-pink.vercel.app"  
       },
