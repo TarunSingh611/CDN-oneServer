@@ -55,21 +55,21 @@
         "description": "A dynamic pizza ordering application built using the MERN stack. This application allows users to browse a variety of pizzas and manage their cart. It features a robust RESTful API that supports full CRUD operations, enabling efficient user interactions and seamless data management. Users can register, log in.",
         "techStack": ["Node.js", "Express", "Redux", "MongoDB", "React.js"],
         "image": "/images/projects/PizzaFleetApp.png",
-        "link": "pizza-web-gold.vercel.app/"
+        "link": "https://pizza-web-gold.vercel.app/"
       },
       {  
         "title": "AI-Powered Content Management Platform",  
         "description": "A comprehensive content management platform that leverages AI to enhance user experience and streamline content creation. Built with Next.js and Tailwind CSS, this platform allows users to manage content efficiently, integrate AI features for content suggestions, and analyze user engagement through a robust analytics dashboard.",  
         "techStack": ["Next.js", "Tailwind CSS", "TypeScript","firbase","Prisma", "MongoDB", "React"],  
         "image": "/images/projects/AIContentPlatform.png",  
-        "link": "content-platform-pink.vercel.app"  
+        "link": "https://content-platform-pink.vercel.app"  
       },
       {
         "title": "Recipe Maker: AI-Powered Recipe Generator",
         "description": "An innovative recipe generation platform that uses AI to create personalized recipes based on available ingredients, dietary preferences, and user needs. Featuring a modern, responsive design and seamless recipe management capabilities.",
         "techStack": ["React", "Tailwind CSS", "TypeScript", "Gemini API", "React Context"],
         "image": "/images/projects/RecipeMaker.png",
-        "link": "recipe-generator-drab.vercel.app"
+        "link": "https://recipe-generator-drab.vercel.app"
       },
       {
         "title": "Social Media App",
