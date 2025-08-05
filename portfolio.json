@@ -112,20 +112,6 @@
       "link": "https://recipe-generator-drab.vercel.app"
     },
     {
-      "title": "Pizza Order Online",
-      "description": "A responsive pizza ordering application with full authentication, REST APIs, cart management, and streamlined UX. Reduced average checkout time by 15 seconds based on user testing insights.",
-      "techStack": ["Node.js", "Express", "Redux", "MongoDB", "React.js"],
-      "image": "/images/projects/PizzaFleetApp.png",
-      "link": "https://pizza-web-gold.vercel.app/"
-    },
-    {
-      "title": "Social Media App",
-      "description": "Built a scalable social media application featuring complete CRUD APIs, real-time updates, and optimized server response time (reduced from 300ms to 150ms) based on load testing.",
-      "techStack": ["Node.js", "Express", "Redux", "MongoDB", "Next.js"],
-      "image": "/images/projects/SocialMediaApp.png",
-      "link": "https://social-sphere-six.vercel.app/"
-    },
-    {
       "title": "AI Travel Planner",
       "description": "AI-powered travel planning app providing location-based itineraries. Integrates OpenAI APIs with serverless deployment, designed for real-time responsiveness and clean UX.",
       "techStack": ["Next.js", "TailwindCSS", "Vercel", "Git"],
@@ -140,3 +126,4 @@
     "GmapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26799.015216543!2d75.1333!3d32.9167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391e80a5920c21df%3A0x4b0e8b0f53bc8ae5!2sUdhampur%2C%20Jammu%20and%20Kashmir!5e0!3m2!1sen!2sin!4v1630000000000!5m2!1sen!2sin"
   }
 }
+
