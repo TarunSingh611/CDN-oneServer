@@ -88,14 +88,14 @@
       "description": "Production-level workflow automation apps for Monday.com including PDF Builder, Google Calendar Sync, and Drive Sync. Features include OAuth2 security, custom field mapping, and real-time sync with robust error handling.",
       "techStack": ["MongoDB", "Express", "React", "Node.js", "AWS", "OAuth2", "REST", "Monday.com SDK"],
       "image": "/images/projects/MondayMarketplaceApp.png",
-      "link": ""
+      "link": "https://auth.monday.com/oauth2/authorize?client_id=010a3d838d0ce26bf5d9702e999ff836&response_type=install"
     },
     {
       "title": "BetterCommerce E-Commerce Platforms",
       "description": "High-performance e-commerce storefronts with features like dynamic product catalogs, order processing, custom checkout flows, and DaMENSCH.com enhancements (size filters, return workflows).",
       "techStack": ["Next.js", "React", "Node.js", "TailwindCSS", "AWS"],
       "image": "/images/projects/BetterCommerce.png",
-      "link": ""
+      "link": "https://github.com/better-commerce/betterstorefront?tab=readme-ov-file"
     },
     {
       "title": "AI-Powered Content Management Platform",
@@ -126,6 +126,7 @@
     "GmapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26799.015216543!2d75.1333!3d32.9167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391e80a5920c21df%3A0x4b0e8b0f53bc8ae5!2sUdhampur%2C%20Jammu%20and%20Kashmir!5e0!3m2!1sen!2sin!4v1630000000000!5m2!1sen!2sin"
   }
 }
+
 
 
 
