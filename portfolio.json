@@ -88,35 +88,38 @@
       "description": "Production-level workflow automation apps for Monday.com including PDF Builder, Google Calendar Sync, and Drive Sync. Features include OAuth2 security, custom field mapping, and real-time sync with robust error handling.",
       "techStack": ["MongoDB", "Express", "React", "Node.js", "AWS", "OAuth2", "REST", "Monday.com SDK"],
       "image": "/images/projects/MondayMarketplaceApp.png",
-      "link": "https://auth.monday.com/oauth2/authorize?client_id=010a3d838d0ce26bf5d9702e999ff836&response_type=install"
+      "link": "https://auth.monday.com/oauth2/authorize?client_id=010a3d838d0ce26bf5d9702e999ff836&response_type=install",
     },
     {
       "title": "BetterCommerce E-Commerce Platforms",
       "description": "High-performance e-commerce storefronts with features like dynamic product catalogs, order processing, custom checkout flows, and DaMENSCH.com enhancements (size filters, return workflows).",
       "techStack": ["Next.js", "React", "Node.js", "TailwindCSS", "AWS"],
       "image": "/images/projects/BetterCommerce.png",
-      "link": "https://github.com/better-commerce/betterstorefront?tab=readme-ov-file"
+      "github": "https://github.com/better-commerce/betterstorefront?tab=readme-ov-file",
     },
     {
       "title": "AI-Powered Content Management Platform",
       "description": "A comprehensive content management platform leveraging AI to enhance UX and streamline content workflows. It features intelligent content suggestions, analytics dashboard, and real-time updates built on a robust frontend architecture.",
       "techStack": ["Next.js", "Tailwind CSS", "TypeScript", "Firebase", "Prisma", "MongoDB", "React"],
       "image": "/images/projects/AIContentPlatform.png",
-      "link": "https://content-platform-pink.vercel.app"
+      "link": "https://content-platform-pink.vercel.app",
+      "github": "https://github.com/TarunSingh611/Content-Platform"
     },
     {
       "title": "Full Stack Developer – Next.js, Prisma, NextAuth",
       "description": "BloggED is a modern full‑stack blog CMS built with Next.js that delivers secure authentication, rich content management, engagement features (bookmarks, favorites, votes, threaded comments with mentions), built‑in analytics (views and time‑on‑page), and a responsive, accessible UI.",
       "techStack":["NextJs","ReactJS","Tailwind CSS", "TypeScript","Prisma", "MongoDB"],
       "image": "/images/projects/Blogged.png",
-      "link": "https://blogg-ed.vercel.app"  
+      "link": "https://blogg-ed.vercel.app",
+      "github": "https://github.com/TarunSingh611/BloggED"
     },
     {
       "title": "DIY_AI Hub",
       "description": "A comprehensive multi-application AI platform that provides various AI-powered tools in a single interface. Features include an AI Travel Planner for personalized trip itineraries and an AI Recipe Generator for creating recipes from available ingredients. Built with modern web technologies and Google's Gemini AI for intelligent content generation.",
       "techStack": ["Next.js", "TypeScript", "Tailwind CSS", "Google Gemini AI", "Axios", "Lucide React", "Formik & Yup"],
       "image": "/images/projects/DIYAI.png",
-      "link": "https://diy-ai-opal.vercel.app/"
+      "link": "https://diy-ai-opal.vercel.app/",
+      "github": "https://github.com/TarunSingh611/DIY-AI"
     }
   ],
   "contacts": {
@@ -126,6 +129,7 @@
     "GmapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26799.015216543!2d75.1333!3d32.9167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391e80a5920c21df%3A0x4b0e8b0f53bc8ae5!2sUdhampur%2C%20Jammu%20and%20Kashmir!5e0!3m2!1sen!2sin!4v1630000000000!5m2!1sen!2sin"
   }
 }
+
 
 
 
