@@ -1,103 +1,107 @@
-# CDN-oneServer
+<p align="center">
+  <img src="https://github.com/tarunsingh611/tarunsingh611/blob/main/assets/banner.png" alt="Tarun Singh - Full Stack Developer" />
+</p>
 
-💼 Tarun Singh - Software Developer Portfolio
-Welcome to my GitHub Portfolio Repository! This repository contains a structured JSON file that represents my professional journey, skills, projects, and contact information. It serves as a mini portfolio site showcasing my expertise as a Software Developer and Software Engineer.
+Hi, I’m Tarun Singh 👋
+A passionate Full Stack Software Engineer specializing in Next.js, React, and scalable web architectures. Currently building production-grade SaaS applications at DataNexify, with a strong focus on workflow automation, cloud integrations, and user-centric solutions.
 
-🖥️ About Me
-I am Tarun Singh, a passionate and results-driven Software Developer specializing in Frontend Development with expertise in Next.js, React, and modern web technologies. My journey in software development began with C++ and Python, and I have since honed my skills in building dynamic, responsive, and user-friendly web applications.
+This repo contains my developer portfolio in JSON format – a structured dataset of my career, skills, projects, and contact information.
 
-Currently, I am contributing as a Web Developer at Axtrum Solutions Pvt. Ltd., where I design and develop innovative websites and custom web applications to solve real-world problems. I am constantly learning and expanding my skill set to stay ahead in the ever-evolving tech industry.
+📂 Repository Contents
 
-🛠️ Skills
-Here are the technologies and tools I work with:
+This repository contains a single JSON file with:
+
+👤 Personal Info – Name, title, email, socials, website.
+
+📝 About Me – Professional summary and personal intro.
+
+💼 Experiences – Work history with detailed roles & contributions.
+
+🎓 Education – Academic background.
+
+🛠️ Skills – Languages, frameworks, tools, databases, and platforms.
+
+🚀 Projects – Featured real-world applications & case studies.
+
+📬 Contacts – Email, phone, and Google Maps location.
+
+🛠️ Tech Stack
+
+Here are the technologies I frequently use:
 
 Languages
-JavaScript
-C++
-Python
-HTML
-CSS
-TypeScript
-Frameworks
-React
-Next.js
-Express
-Node.js
-Tailwind CSS
-Libraries
-Formik
-Redux
-React Query
-Prisma
-Databases
-MongoDB
-MySQL
-Firebase
+JavaScript TypeScript C++ Python HTML CSS
+
+Frameworks & Libraries
+React Next.js Express Node.js Tailwind CSS Redux React Query Formik Framer Motion Prisma
+
+Databases & Platforms
+MongoDB MySQL Firebase AWS Monday.com SDK Google APIs (Calendar, Drive)
+
 Tools
-Visual Studio Code
-Git
-Postman
-Azure
-GitHub
-🚀 Projects
-Here are some of the projects I’ve worked on:
+Git GitHub Postman Vercel VS Code
 
-1. Pizza Order Online
-A dynamic pizza ordering application built using the MERN stack. It allows users to browse a variety of pizzas, manage their cart, and perform CRUD operations through a robust RESTful API.
+🚀 Featured Projects
+Project	Description	Tech Stack	Link
+Monday.com Marketplace Apps	Workflow automation apps (PDF Builder, Google Calendar Sync, Drive Sync) with OAuth2, real-time sync, and error handling.	MERN, AWS, OAuth2, REST, Monday SDK	🔗 Marketplace App
 
-Tech Stack: Node.js, Express, Redux, MongoDB, React.js
+BetterCommerce Platforms	High-performance e-commerce storefronts (DaMENSCH.com features, checkout flows, size filters).	Next.js, React, Node.js, AWS	🔗 Repo
 
-2. AI-Powered Content Management Platform
-A comprehensive content management platform that leverages AI to enhance user experience and streamline content creation. It features an analytics dashboard and AI-powered content suggestions.
+AI Content Management Platform	AI-powered CMS with intelligent content suggestions and real-time updates.	Next.js, TS, Tailwind, Firebase, Prisma	🔗 Live Demo
 
-Tech Stack: Next.js, Tailwind CSS, TypeScript, Firebase, Prisma, MongoDB, React
+BloggED	Full-stack blog CMS with auth, analytics, bookmarks, votes, threaded comments, and rich UX.	Next.js, Prisma, MongoDB	🔗 Live
 
-3. Recipe Maker: AI-Powered Recipe Generator
-An innovative recipe generation platform that uses AI to create personalized recipes based on available ingredients, dietary preferences, and user needs.
+DIY_AI Hub	Multi-tool AI platform with travel planner & recipe generator powered by Gemini AI.	Next.js, TS, Tailwind, Google Gemini AI	🔗 Live
+📈 Experience
 
-Tech Stack: React, Tailwind CSS, TypeScript, Gemini API, React Context
+Software Engineer – DataNexify (2025 – Present)
 
-4. Social Media App
-A dynamic social media application built using the MERN stack. It features a robust RESTful API supporting full CRUD operations for efficient user interactions and data management.
+Building high-traffic Monday.com marketplace apps.
 
-Tech Stack: Node.js, Express, Redux, MongoDB, Next.js
+Designed & deployed PDF Builder (1k+ users).
 
-5. AI Travel Planner
-A web application designed to generate detailed travel plans using AI models. It provides recommendations based on the city, state, and country chosen by the user.
+Implemented Google Calendar & Drive sync with OAuth2.
 
-Tech Stack: Next.js, TailwindCSS, Vercel, Git
+Full Stack Developer – Axtrum Solutions (2023 – 2024)
 
-🎓 Education
-Bachelor of Engineering in Computer Engineering
-GCET Jammu
-Jammu and Kashmir (Aug 2019 – Aug 2023)
-📫 Contact Me
-Feel free to reach out to me for collaboration or inquiries:
+Delivered custom apps boosting client satisfaction by 30%.
 
-Email: thakurtarun936@gmail.com
-Phone: +91 7006072897
-Location: Udhampur, Jammu and Kashmir, India
-Google Maps: View Location
-📂 Repository Overview
-This repository contains a structured JSON file that represents my portfolio. The JSON file includes:
+Optimized UIs for performance and engagement.
 
-About Me: A brief introduction to who I am.
-Experiences: My professional work experience.
-Education: My academic background.
-Skills: A detailed list of my technical skills.
-Projects: A showcase of my key projects with descriptions and links.
-Contact Information: How to get in touch with me.
-🌟 How to Use
-Clone this repository:
-bash
-Copy Code
-git clone https://github.com/<your-username>/<your-repo-name>.git  
-Use the JSON file (data.json) in your applications or websites to dynamically display portfolio information.
-📝 License
-This repository is licensed under the MIT License. Feel free to use the JSON file for inspiration or as a template for your own portfolio.
+Backend Developer Intern – CodeQuotient (2023)
 
-🙌 Let's Connect!
-If you liked this portfolio or want to collaborate, feel free to connect with me on:
+Worked on MERN & MySQL apps, backend architecture, and reusable modules.
 
-LinkedIn
-GitHub
+📬 Contact
+
+📧 tarunsinghrajput25@gmail.com
+
+📱 +91 7006072897
+🌐 Portfolio Website
+
+💼 LinkedIn
+
+🐙 GitHub
+
+🐦 Twitter / X
+
+📍 Udhampur, Jammu & Kashmir, India
+
+🌐 JSON Portfolio Usage
+
+You can use this JSON as a:
+
+💻 Backend API seed for portfolio websites.
+
+🌍 Dynamic data source for personal portfolio templates.
+
+⚡ Resume builder (convert JSON → PDF/HTML).
+
+Example fetch in Next.js:
+
+const res = await fetch("https://raw.githubusercontent.com/<your-username>/<repo-name>/main/portfolio.json");
+const data = await res.json();
+console.log(data.personal.name); // Tarun Singh
+
+
+✨ Built with ❤️ by Tarun Singh
